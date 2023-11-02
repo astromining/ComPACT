@@ -1,6 +1,8 @@
 # ComPACT
 
-The catalogue was created based on the extended candidate catalogue of the Planck cluster catalogue ([SZcat](https://github.com/astromining/planck_szcat)) and deep learning algorithm, that was trained on the ACT+Planck maps ([Naess et al. 2020](https://iopscience.iop.org/article/10.1088/1475-7516/2020/12/046)). 
+[arXiv:2309.17077](https://arxiv.org/abs/2309.17077)
+
+The catalogue was created based on the extended candidate catalogue of the Planck clusters ([SZcat](https://github.com/astromining/planck_szcat)) and deep learning algorithm, that was trained on the ACT+Planck maps ([Naess et al. 2020](https://iopscience.iop.org/article/10.1088/1475-7516/2020/12/046)). 
 
 The ComPACT catalogue contains 2,934 candidates. Below we describe columns:
 + Name: ID of a ComPACT candidate
