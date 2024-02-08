@@ -14,9 +14,9 @@ The ComPACT catalogue contains 2,962 candidates. Below we describe columns:
 + ACT: Cluster name in the ACT DR5 catalogue
 + PSZ2:	PSZ2 source name 
 + Priority: Priotity of candidate along S area:
-  ++ 1: S > 30 (the most probable, $Purity_{min} = 0.8$)
-  ++ 2: S > 25 ($Purity_{min} = 0.78$)
-  ++ 3: S > 20 ($Purity_{min} = 0.74$)
+    -  1: S > 30 ( $Purity_{min} = 0.8$ )
+    - 2: S > 25 ( $Purity_{min} = 0.78$ )
+    - 3: S > 20 ( $Purity_{min} = 0.74$ )
 
 For columns we used catalogues:
 + SZcatgen: [data](https://github.com/astromining/planck_szcat), [Meshcheryakov et al. 2022](https://link.springer.com/article/10.1134/S1063773722090055)
