@@ -1,6 +1,5 @@
 # ComPACT
-
-[![arXiv:2309.17077](http://img.shields.io/badge/arXiv-2309.17077-B31B1B.svg)](https://arxiv.org/abs/2309.17077)
+[![arXiv:2309.17077](http://img.shields.io/badge/arXiv-2309.17077-B31B1B.svg)](https://arxiv.org/abs/2309.17077) [<img src="https://cds.unistra.fr/img/cds/vizier.svg" width="50" height="30">](https://cdsarc.cds.unistra.fr/viz-bin/cat/J/MNRAS/531/1998)
 
 The catalogue was created based on the extended candidate catalogue of the Planck clusters ([SZcat](https://github.com/astromining/planck_szcat)) and deep learning algorithm, that was trained on the ACT+Planck maps ([Naess et al. 2020](https://iopscience.iop.org/article/10.1088/1475-7516/2020/12/046)). 
 
@@ -28,3 +27,11 @@ Cluster calalogue: ComPACT.csv (v2.0)
 + v2.0 Add 'Priority' column, which is responsible for subsamples with different purity and completeness characteristics. Also, We keep the nearest object in 5 arcmin window (before all objects in 5 arcmin window). Also, now we cross-match objects from full catalogue with SZcat, before we crop 5 arcmin window from probability map and analyse groups
 + v1.1 Negative RA coordinates in catalog are fixed (e.g -152.41666 -> 207.58333)
 + v1.0 Initial release (in folder v1.0)
+
+-----
+
+**Bibcode:** [2024MNRAS.531.1998V (ADS)](https://ui.adsabs.harvard.edu/abs/2024MNRAS.531.1998V)
+
+**Vizier:** [ComPACT, ACT+Planck galaxy cluster cat. : J/MNRAS/531/1998](https://cdsarc.cds.unistra.fr/viz-bin/cat/J/MNRAS/531/1998)
+
+**arXiv:** [arXiv:2309.17077](https://arxiv.org/abs/2309.17077)
