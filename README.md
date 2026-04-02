@@ -32,7 +32,7 @@ The ComPACT catalogue contains 2,962 candidates. Below we describe columns:
 | **zCluster_err** | Uncertainty in `zCluster_delta` |  |
 | **zZazn_sig1** | `Zaznobin` first significance value | Significance ($p_1$) |
 | **zZazn_sig2** | `Zaznobin` second significance value | Significance ($p_2$) |
-| **zZazn_err** | Uncertainty in `Zaznobin` significance |  |
+| **zZazn_err** | Uncertainty in `Zaznobin` redshift |  |
 | **M500** | Cluster mass ($M_{500c}$) | $10^{14} \, M_\odot$ |
 | **mSource** | Source of the mass estimate | Reference ID (see *Data Sources*)|
 
@@ -64,8 +64,8 @@ Cluster calalogue: ComPACT.csv (v2.0)
 *   **arXiv:** [arXiv:2309.17077](https://arxiv.org/abs/2309.17077v3)
 
 ### New Paper (v3.0 - Masses & Redshifts)
-*   **Bibcode:** *[INSERT NEW BIBCODE]*
-*   **arXiv:** *[INSERT NEW ARXIV LINK]*
+*   **Bibcode:** 
+*   **arXiv:** 
 
 ### Data Archives
 *   **Vizier:** [ComPACT: J/MNRAS/531/1998](https://cdsarc.cds.unistra.fr/viz-bin/cat/J/MNRAS/531/1998)
