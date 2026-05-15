@@ -35,8 +35,8 @@ The ComPACT catalogue contains 2,962 candidates. Below we describe columns:
 | **zZazn_err** | Uncertainty in `Zaznobin` redshift |  |
 | **M500** | Cluster mass ($M_{500c}$) | $10^{14} \, M_\odot$; asymmetric uncertainties: `E_M500` (upper), `e_M500` (lower) |
 | **mSource** | Source of the mass estimate | Reference ID (see *Data Sources*)|
-| **Mact** | Mass from $Y$–$M$ relation (ACT+Planck $y$-maps) | $10^{14} \, M_\odot$; uncertainties: `e_Mact`, `E_Mact` |
-| **Mplanck** | Mass from $Y$–$M$ relation (Planck-only $y$-maps) | $10^{14} \, M_\odot$; uncertainties: `e_Mplanck`, `E_Mplanck` |
+| **Mact** | Mass from $Y$-$M$ relation (ACT+Planck $y$-maps) | $10^{14} \, M_\odot$; uncertainties: `e_Mact`, `E_Mact` |
+| **Mplanck** | Mass from $Y$-$M$ relation (Planck-only $y$-maps) | $10^{14} \, M_\odot$; uncertainties: `e_Mplanck`, `E_Mplanck` |
 
 ---
 ## Data Sources & References
