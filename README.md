@@ -30,11 +30,13 @@ The ComPACT catalogue contains 2,962 candidates. Below we describe columns:
 | **zSource** | Source of the cluster redshift | Reference ID (see *Data Sources*) |
 | **zCluster_delta** | `zCluster` density contrast statistic | see [zCluster](https://github.com/ACTCollaboration/zCluster) |
 | **zCluster_err** | Uncertainty in `zCluster_delta` |  |
-| **zZazn_sig1** | `Zaznobin` first significance value | Significance ($p_1$) |
-| **zZazn_sig2** | `Zaznobin` second significance value | Significance ($p_2$) |
+| **zZazn_sig1** | `Zaznobin` first significance value | Significance ($p_1$) (see [Zaznobin git](https://github.com/izaznobin/zPhot_Zaznobin)) |
+| **zZazn_sig2** | `Zaznobin` second significance value | Significance ($p_2$) (see [Zaznobin git](https://github.com/izaznobin/zPhot_Zaznobin)) |
 | **zZazn_err** | Uncertainty in `Zaznobin` redshift |  |
-| **M500** | Cluster mass ($M_{500c}$) | $10^{14} \, M_\odot$ |
+| **M500** | Cluster mass ($M_{500c}$) | $10^{14} \, M_\odot$; asymmetric uncertainties: `E_M500` (upper), `e_M500` (lower) |
 | **mSource** | Source of the mass estimate | Reference ID (see *Data Sources*)|
+| **Mact** | Mass from $Y$–$M$ relation (ACT+Planck $y$-maps) | $10^{14} \, M_\odot$; uncertainties: `e_Mact`, `E_Mact` |
+| **Mplanck** | Mass from $Y$–$M$ relation (Planck-only $y$-maps) | $10^{14} \, M_\odot$; uncertainties: `e_Mplanck`, `E_Mplanck` |
 
 ---
 ## Data Sources & References
