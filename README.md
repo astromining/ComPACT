@@ -1,5 +1,5 @@
 # ComPACT
-[![arXiv:2309.17077](http://img.shields.io/badge/arXiv-2309.17077-B31B1B.svg)](https://arxiv.org/abs/2309.17077) [<img src="https://cds.unistra.fr/img/cds/vizier.svg" width="50" height="30">](https://cdsarc.cds.unistra.fr/viz-bin/cat/J/MNRAS/531/1998)
+[![arXiv:2605.20027](http://img.shields.io/badge/arXiv-2605.20027-B31B1B.svg)](https://arxiv.org/abs/2605.20027) [![arXiv:2309.17077](http://img.shields.io/badge/arXiv-2309.17077-B31B1B.svg)](https://arxiv.org/abs/2309.17077) [<img src="https://cds.unistra.fr/img/cds/vizier.svg" width="50" height="30">](https://cdsarc.cds.unistra.fr/viz-bin/cat/J/MNRAS/531/1998)
 
 The catalogue was created based on the extended candidate catalogue of the Planck clusters ([SZcat](https://github.com/astromining/planck_szcat)) and deep learning algorithm, that was trained on the ACT+Planck maps ([Naess et al. 2020](https://iopscience.iop.org/article/10.1088/1475-7516/2020/12/046)). 
 
@@ -66,8 +66,8 @@ Cluster calalogue: ComPACT.csv (v2.0)
 *   **arXiv:** [arXiv:2309.17077](https://arxiv.org/abs/2309.17077v3)
 
 ### New Paper (v3.0 - Masses & Redshifts)
-*   **Bibcode:** 
-*   **arXiv:** 
+*   **Bibcode:** [2026arXiv260520027V](https://ui.adsabs.harvard.edu/abs/2026arXiv260520027V)
+*   **arXiv:** [arXiv:2605.20027](http://arxiv.org/abs/2605.20027)
 
 ### Data Archives
 *   **Vizier:** [ComPACT: J/MNRAS/531/1998](https://cdsarc.cds.unistra.fr/viz-bin/cat/J/MNRAS/531/1998)
