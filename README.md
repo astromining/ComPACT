@@ -28,11 +28,13 @@ The ComPACT catalogue contains 2,962 candidates. Below we describe columns:
 | **z** | Cluster redshift |  |
 | **zType** | Redshift type | `spec` (spectroscopic) or `phot` (photometric) |
 | **zSource** | Source of the cluster redshift | Reference ID (see *Data Sources*) |
-| **zCluster_delta** | `zCluster` density contrast statistic | see [zCluster](https://github.com/ACTCollaboration/zCluster) |
+| **zCluster** | redshift estimated by `zCluster` |  |
 | **zCluster_err** | Uncertainty in provided `zCluster` redshift |  |
+| **zCluster_delta** | `zCluster` density contrast statistic | see [zCluster](https://github.com/ACTCollaboration/zCluster) |
+| **zZazn** | redshift estimated by `Zaznobin` algorithm | see [Zaznobin git](https://github.com/izaznobin/zPhot_Zaznobin)  |
+| **zZazn_err** | Uncertainty in provided `Zaznobin` redshift |  |
 | **zZazn_sig1** | `Zaznobin` first significance value | Significance ($p_1$) (see [Zaznobin git](https://github.com/izaznobin/zPhot_Zaznobin)) |
 | **zZazn_sig2** | `Zaznobin` second significance value | Significance ($p_2$) (see [Zaznobin git](https://github.com/izaznobin/zPhot_Zaznobin)) |
-| **zZazn_err** | Uncertainty in provided `Zaznobin` redshift |  |
 | **M500** | Cluster mass ($M_{500c}$) | $10^{14} \, M_\odot$; asymmetric uncertainties: `E_M500` (upper), `e_M500` (lower) |
 | **mSource** | Source of the mass estimate | Reference ID (see *Data Sources*)|
 | **Mact** | Mass from $Y$ - $M$ relation (ACT+Planck $y$-maps) | $10^{14} \, M_\odot$; uncertainties: `e_Mact`, `E_Mact` |
