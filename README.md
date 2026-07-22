@@ -67,11 +67,10 @@ Cluster calalogue: ComPACT.csv (v2.0)
 *   **Bibcode:** [2024MNRAS.531.1998V (ADS)](https://ui.adsabs.harvard.edu/abs/2024MNRAS.531.1998V)
 *   **arXiv:** [arXiv:2309.17077](https://arxiv.org/abs/2309.17077v3)
 *   **doi:** [10.1093/mnras/stae1269](https://ui.adsabs.harvard.edu/link_gateway/2024MNRAS.531.1998V/doi:10.1093/mnras/stae1269)
+*   **Vizier:** [ComPACT: J/MNRAS/531/1998](https://cdsarc.cds.unistra.fr/viz-bin/cat/J/MNRAS/531/1998)
 
 ### New Paper (v3.0 - Masses & Redshifts)
-*   **Bibcode:** [2026arXiv260520027V](https://ui.adsabs.harvard.edu/abs/2026arXiv260520027V)
+*   **Bibcode:** [2026A&A...711A.144V](https://ui.adsabs.harvard.edu/abs/2026A%26A...711A.144V)
 *   **arXiv:** [arXiv:2605.20027](http://arxiv.org/abs/2605.20027)
 *   **doi:** [10.1051/0004-6361/202659201](https://doi.org/10.1051/0004-6361/202659201)
-
-### Data Archives
-*   **Vizier:** [ComPACT: J/MNRAS/531/1998](https://cdsarc.cds.unistra.fr/viz-bin/cat/J/MNRAS/531/1998)
+*   **Vizier:** [ComPACT: J/A+A/711/A144](https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/711/A144)
