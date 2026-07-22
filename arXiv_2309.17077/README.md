@@ -34,7 +34,7 @@ For columns we used catalogues:
 
 ## ComPACT pipeline
 
-This section describes how to reproduce the ComPACT cluster detection workflow using the [galaxyHackers](https://github.com/astromining/galaxyHackers):
+This section describes how to reproduce the ComPACT cluster detection workflow using the [galaxyHackers](https://github.com/astromining/galaxyHackers) repository:
 
 ### ▶ Quick Start
 
@@ -50,6 +50,9 @@ This section describes how to reproduce the ComPACT cluster detection workflow u
    - Replace `/abs/path/to/checkpoint.pth` with your trained model path
 
 Full description see on the [galaxyHackers github](https://github.com/astromining/galaxyHackers)
+
+> [!IMPORTANT]  
+> The training samples in the galaxyHackers pipeline are generated differently than those described in the original ComPACT article. Consequently, using the default dataset will yield different results than those reported in the publication.
 
 ---
 
